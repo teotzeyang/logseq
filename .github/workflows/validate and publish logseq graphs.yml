@@ -1,0 +1,16 @@
+  - name: Logseq Publish SPA
+  # You may pin to the exact commit or the version.
+  # uses: logseq/publish-spa@3fa40f2288e96b5927037610e2445f892a438d79
+  uses: logseq/publish-spa@v0.3.1
+  with:
+    # Graph's root directory
+    graph-directory: # default is .
+    # Directory for published graph
+    output-directory: # default is www
+    # Frontend version of Logseq - git tag or SHA
+    version: # default is 0.10.6
+    # Theme mode of frontend. Can be 'dark' or 'light'
+    theme-mode: # optional, default is light
+    # Accent color of frontend. 10+ colors available.
+    accent-color: # optional, default is blue
+          
