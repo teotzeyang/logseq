@@ -421,4 +421,4 @@
  :file/name-format :triple-lowbar
  :publishing/all-pages-public? true
  :feature/enable-journals? false
- :default-home {:page "Page 1"}}
+ :default-home {:page "Accounting"}}
