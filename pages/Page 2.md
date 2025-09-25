@@ -1,3 +1,3 @@
 public:: true
 
-- Sequel to [[page1]]
+- Sequel to [[Page 1]]
