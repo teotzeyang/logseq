@@ -1,3 +1,4 @@
+public:: true
 icon:: 💵
 type:: [[Knowledge Base]]
 description:: Knowledge base of all foundational accounting papers.
